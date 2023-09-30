@@ -21,11 +21,11 @@ Setup the ```node.js``` backend:
   ### Create first server:
 
   1. Open the ```app.js``` file and add the following code and run ```node app.js``` in the terminal to start the server:
-  ```javascript 
+  ```javascript
 const express = require("express")
 const app = express()
 app.listen(8000, () => {
     console.log("Server is running on port 8000")
 })
-```
-The server is now running on port 8000, and should display ```Cannot Get /```.
+  ```
+The server is now running on port 8000, and should display ```Cannot Get /
