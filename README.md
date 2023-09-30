@@ -9,6 +9,7 @@ This is a simple movie review app that allows users to add movies and review the
 3. Within the ```backend``` folder, create an ```app.js``` file.
 
 - Open the ```Review-App``` folder in your code editor and ```cd``` into the ```backend``` folder and run the following commands in the terminal:
+
   ```npm init```
 
   ```npm install express```
@@ -18,6 +19,6 @@ This is a simple movie review app that allows users to add movies and review the
   ```npm install cors```
 
   ```npm install dotenv```
-  
+
   ```npm install nodemon --save-dev```
 
