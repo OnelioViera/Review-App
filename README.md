@@ -20,7 +20,7 @@ Setup the ```node.js``` backend:
 
   ### Create first server:
 
-  1. Open the ```app.js``` file and add the following code and run ```node app.js``` in the terminal to start the server:
+  1. Open the ```app.js``` file and add the following code and run ```node app.js``` in the terminal to start the server by running ```node app.js``` in the terminal:
   ```javascript 
 const express = require("express")
 const app = express()
