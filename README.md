@@ -10,9 +10,14 @@ This is a simple movie review app that allows users to add movies and review the
 
 - Open the ```Review-App``` folder in your code editor and ```cd``` into the ```backend``` folder and run the following commands in the terminal:
   ```npm init```
+
   ```npm install express```
+
   ```npm install mongoose```
+
   ```npm install cors```
+
   ```npm install dotenv```
+  
   ```npm install nodemon --save-dev```
 
