@@ -30,7 +30,6 @@ app.listen(8000, () => {
 })
   ```
 The server is now running on port 8000, and should display ```Cannot Get /```
-
 Now mend the following code to the ```app.js``` file and run ```node app.js``` in the terminal to display ```Backend server id running on port 8000.``` in the browser:
 ```javascript
 const express = require("express")
