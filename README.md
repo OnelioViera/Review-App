@@ -1,5 +1,5 @@
 # MERN - Movie Review App
----
+
 ## Description
 This is a simple movie review app that allows users to add movies and review them.
 
