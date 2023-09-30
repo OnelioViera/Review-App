@@ -18,8 +18,16 @@ Setup the ```node.js``` backend:
 
   * The ```node_modules``` folder will be created and the ```express``` package will be installed.
 
-  
+  ### Create first server:
 
+  1. Open the ```app.js``` file and add the following code and run ```node app.js``` in the terminal to start the server:
+  ```javascript 
+  
+const express = require("express")
+const app = express()
+app.listen(8000, () => {
+    console.log("Server is running on port 8000")
+})
 
 
  
